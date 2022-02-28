@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the confession and execution of the four prisoners executed at Tyburn on Wednesday the 5th of this instant February 1684 [...] Davis, George Stokes, Mary Williamson, Alice Patteson, who was burnt at Tyburn for high treason.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95090</idno>
+            <idno type="STC">Wing T2779bA</idno>
+            <idno type="STC">ESTC R232947</idno>
+            <idno type="EEBO-CITATION">99898083</idno>
+            <idno type="PROQUEST">99898083</idno>
+            <idno type="VID">133420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2557:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the confession and execution of the four prisoners executed at Tyburn on Wednesday the 5th of this instant February 1684 [...] Davis, George Stokes, Mary Williamson, Alice Patteson, who was burnt at Tyburn for high treason.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet, in Black-Horse-alley near Fleet-Bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1685]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publicatiion from Wing CD-ROM, 1996.</note>
+                  <note>: Text is obscured by print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:133420:1"/>
+            <!-- PDF PAGE 4 -->
+            <pb n="1" facs="tcp:133420:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>A TRUE NARRATIVE OF THE CONFESSION AND EXECUTION Of the four Priſoners Executed At TYBURN On <date>
+                  <hi>Wedneſday</hi> the 5th of this Inſtant <hi>February</hi> 1684.</date>
+            </head>
+            <head type="sub">
+               <list>
+                  <item>Iſaac Davis, </item>
+                  <item>George Stokes,</item>
+                  <item>Mary Williamſon.</item>
+                  <item>
+                     <hi>Alice Patteſon,</hi> who was burnt at <hi>Tyburn for</hi> High Treaſon</item>
+               </list>
+            </head>
+            <p>THe moſt conſiderable in his Crimes of theſe miſerable Wretch<g ref="char:EOLhyphen"/>es, who this day ſatisfied the Law in their Execution, for thoſe heinous offences, for which they, were moſt juſtly. Condemned, was <hi>Edward Conyers,</hi> a perſon from whoſe reverend Age, being above threeſcore, might have been expected a more honeſt courſe of life in thoſe his latter days, ſince he was from the common frailty, and de<g ref="char:EOLhyphen"/>cay of nature obliged conſtantly to attend his call into another world which Summons he by his Vitious and Covetous deſires of living in eaſe and plenty, has now fatally haſtned upon himſelf. He was born at <hi>New-Caſtle,</hi> and ſince lived in St. <hi>Giles in the Field</hi> with his wife and family, in the Reputation of an honeſt Man, though not very con<g ref="char:EOLhyphen"/>ſiderable for his Riches in the Eye of the World.</p>
+            <pb n="2" facs="tcp:133420:2"/>
+            <!-- PDF PAGE 5 -->
+            <p>He <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>he laſt Seſſions at the <hi>Old-Baily</hi> Arraigned with his Wife <hi>Jane,</hi> and both Condemned for High-Treaſon, for Clipping and o<g ref="char:EOLhyphen"/>therways Diminiſhing the Current Coin of this Kingdom, the Diſ<g ref="char:EOLhyphen"/>covery of which was as follows.</p>
+            <p>A Daughter of <hi>Edward Conyers,</hi> being ſent out by her Mother to buy Bread and other Commodities they wanted, offering two Shil<g ref="char:EOLhyphen"/>lings which appeared lately clipt in payment was ſeized, and being examined how ſhe came by that money, ſhe anſwered, ſhe had it from her Mother, when being told that they were clipt, and if ſhe did not diſcover all that ſhe knew about it, ſhe muſt be preſently ſent to priſon, ſhe immediately confeſt that her Father uſed to clip money, and that they had Sheers, Files, Melting <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, and other In<g ref="char:EOLhyphen"/>ſtruments neceſſary for that wicked Trade; upon this a Conſtable with a Warrant went immediately to ſearch the houſe, where they found in <hi>Conyers</hi> Lodgings the ſaid Implements as alſo clipt mony &amp; Clippings, upon this they were both ſent to <hi>Newgate:</hi> and at the <hi>Old Bayly</hi> the laſt Seſſions, upon plain and undeniable Evidence they were found Guilty of Felony and High-Treaſon and accordingly condem<g ref="char:EOLhyphen"/>ned, but <hi>Jane</hi> his Wife, by his Majeſtys great Clemency is Repreived upon her great Penitence and Contrition, <hi>Edward Conyers</hi> the Huſ<g ref="char:EOLhyphen"/>band, did not till a little before Execution ſeem to be ſo nearly touched in Conſcience, as a perſon in his unhappy Circumſtances ought to have been, he was willing to own himſelf in General a great Offender, and one who was grown old in Vitious Courſes, but ſuch as yet were rather the common Lapſes of Mankind, than parti<g ref="char:EOLhyphen"/>cular Vices from his own depraved affections. He was ready to Ex<g ref="char:EOLhyphen"/>empt himſelf from the Guilt of that Crime he was Condemned for, either in hopes of a Reprieve, ſuppoſing his ſeeming innocence and denyal of the Fact might prove a good Argument for Royal mercy. But the Night before Execution, he ſeemed to have a true ſence of his ſad condition and often prayed and read much in the Holy Bible, and was deeply concerned for the Deplorable condition of his poor Children, the care of which he very earneſtly recommended to his Friends But this Morning was Repreived, by his Majeſtys Grace and Favour.</p>
+            <p>
+               <hi>Jſaac Davis,</hi> was another of thoſe unhappy Criminals who this day ſuffered: his Crime for which he, ſuffered was this.</p>
+            <p>On the 30th of <hi>December</hi> laſt, he with two others, between one and two in the Morning, broke into the houſe of Mr. <hi>Marſhfield</hi> liv<g ref="char:EOLhyphen"/>ing near <hi>Knights-bridge;</hi> the ſaid <hi>Marſhfield</hi> hearing a noiſe below in his houſe came down in his ſhirt, imagining two of his own Ser<g ref="char:EOLhyphen"/>vants were up at that unſeaſonable hour; as ſoon as he was got to the bottom of the Stairs, they fell upon him, and cut and wounded him in ſeveral places, diſcharging a Piſtol loaded with Bullets; upon the report of which and the out-cry he made calling for help his Son came down and they immediately Fled, the Priſoner for haſte left his Hat behind him which was known to be his, both by Mr. <hi>Marſhfield</hi> and his Son who had ſeen him wear it, he having been
+<pb n="3" facs="tcp:133420:2"/>
+               <!-- PDF PAGE 5 -->formerly Mr. <hi>Marſhfields</hi> Servant, was perſonally known to him tho under a diſguiſe. He could make very little defence for himſelf at his Tryal, and ſince ſentence hath, by the extraordinary pains of that worthy perſon Mr. <hi>Ordinary</hi> been brought into a deep ſence and utter abhorrence of thoſe Vitious Courſes which have brought him to this untimely End.</p>
+            <p>
+               <hi>John Stokes,</hi> a young man about eighteen years of age, was Indict<g ref="char:EOLhyphen"/>ed for picking the Pocket of <hi>Elizabeth Roſſe,</hi> of her Purſe in which was 38 Shillings in Mony; as ſhe was paſſing along <hi>Pye Corner;</hi> his Hand was taken in her pocket, but he Violently ſnatching it out ran away with the Mony, but upon perſuit was Seized and was Com<g ref="char:EOLhyphen"/>mitted to <hi>Newgate,</hi> an<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Seſſions</hi> upon plain Evidence was found Guilty: Tho he was but young in Years he had been long ac<g ref="char:EOLhyphen"/>quainted with ſuch wicked practiſes, and now brought to Condeign puniſhment: Upon the near appoach of Death he began to receive the impreſſion of thoſe Religious dutys with more Zeal and Atten<g ref="char:EOLhyphen"/>tion and to appear more ſenſible of his miſerable and forlorn Con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>
+               <hi>Mary VVilliamſon,</hi> alias <hi>Jones</hi> under the pretence of Service, hir'd her ſelf to Mr. <hi>Powney</hi> of St. <hi>Lawrence Poultney London,</hi> and lived with him from Michelmas to the. 26th. of <hi>October</hi> following, at which time her Maſter and Miſtriſs being gone a Journey, ſhe broke open a Trunck where their Plate and Mony lay, and Robbing them thereof, to the value of three hundred pound fled: Being afterwards apre<g ref="char:EOLhyphen"/>hended, and this appearing upon full Evidence againſt her, as alſo that ſhe being an old offender, and had been formerly convicted of the like; ſhe was now found Guilty, and this day Executed with great remorſe and ſorrow for thoſe wicked practiſes ſhe had been to frequently guilty of, and now deſervedly ſuffered for.</p>
+            <p>
+               <hi>Alice Patteſon;</hi> lived in the Pariſh of St. <hi>Martins in the Fields</hi> and lodged at the Houſe of <hi>Mary Hern,</hi> who was the moſt material wit<g ref="char:EOLhyphen"/>neſs againſt her. She was Indicted for Clipping ſix Half-crowns, of the Lawful <hi>Coyn</hi> of this Kingdom, called King <hi>Charles</hi> the firſt his Half crowns, diminiſhing each of the ſaid Half-crowns to the value of 4<hi>d.</hi> Her aforeſaid Landlady ſeemed to connive thereat, by procu<g ref="char:EOLhyphen"/>ring her broad mony, and after it was clipt by changing it into Guinys, allowing 21<hi>s.</hi> and 8<hi>d.</hi> a Guiny, which they at another place, changed again into Silver at 21<hi>s.</hi> and 6<hi>d.</hi> per. Guiny. The ſaid <hi>Mary Hern</hi> confeſſing ſhe had in this manner changed away ſeve<g ref="char:EOLhyphen"/>ral conſider able ſums, and alſo depoſed, that ſhe had ſeen her <hi>Clip<g ref="char:EOLhyphen"/>ing Fileing and diminiſhing</hi> mony; a melting pot, melted Silver, Clipt-Mony and other Evidences thereof, being found in the Houſe: She was therefore brought in guilty of Felony &amp; High-Treaſon and vvas this day burnt at <hi>Tyburn:</hi> ſhe ſpoke not much in publick, but in her Behaviour appeared very penitent and being brought to the Stake vvhere ſhe vvas chained, made often uſe of ſe<g ref="char:EOLhyphen"/>veral pious Expreſſions and Religious Exhortations to her neareſt
+<pb n="4" facs="tcp:133420:3"/>
+               <!-- PDF PAGE 6 -->Friends, after ſome little time of Devotion the Fire vvas kindled, the Smoke of vvhich ſuddenly choack'd her: She Expired only vvith he ſingle Groan.</p>
+            <p>There were in all 12. condemned, of which Number through his Majeſtys Grace and Clemency, ſix had a Repreive, and tvvo others, <hi>viz. Joan Nicholas,</hi> and <hi>Mary Defoe,</hi> pleaded their Bellys, and being by a Jury of Women found to be vvith Child, Execution vvas reſpi<g ref="char:EOLhyphen"/>ted till after their Deliverance, vvhen they muſt ſuffer according to Lavv, unleſs by his Majeſtys Gracious pardon they obtain a Nevv Life.</p>
+            <p>On <hi>Wedneſday</hi> the 5th. of this Inſtant <hi>M<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch,</hi> about Nine of the Clock the Cart vvas brought into vvhich <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey vvere put, about E<g ref="char:EOLhyphen"/>leven the Cart drevv on to the place of Execution. <hi>Alice Patteſon</hi> being dravvn upon a Sledge. They behaved themſelves vvith a very devout and Chriſtian-like Carriage, deſiring the prayers of all preſent, and commending their Souls unto their moſt merciful Re<g ref="char:EOLhyphen"/>deemer, vvere turn'd off by the Cart dravving avvay, vvhere ſome of them hung a great vvhile before they vvere dead.</p>
+            <p>
+               <hi>Entered according to</hi> ORDER.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed by</hi> E. Mallet, <hi>in</hi> Black-Horſe-Alley <hi>near</hi> Fleet-Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
